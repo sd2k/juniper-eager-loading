@@ -12,7 +12,7 @@ N/A
 
 ### Changed
 
-N/A
+- Renamed `impl_LoadFrom_for_diesel` to `impl_load_from_for_diesel`.
 
 ### Removed
 
